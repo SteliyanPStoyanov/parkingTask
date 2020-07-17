@@ -18,6 +18,8 @@ Install NPM Dependencies
 
 In the .env file, add database information to allow Laravel to connect to the database
 
+Generate an app encryption key
+
 Migrate the database
 
 Seed the database
